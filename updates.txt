@@ -5,4 +5,5 @@ working on nepal data extraction---10/04/2020
 
 dhia
 ______
-update s.korea
+update s.korea (link below)
+http://ncov.mohw.go.kr/en/ 
