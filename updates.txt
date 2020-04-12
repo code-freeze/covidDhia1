@@ -16,6 +16,19 @@ declaration of home quarantine- same date
 Further strengthen ing physical distancing- i will confirm the date in a while- do u know the date?
 introduction of the Korean model (kerala-so wait)
 
+<<<<<<< HEAD
 dhia
 _____
 hi
+=======
+
+martin
+_________ 12/4/2020
+
+all countries updates
+some bugs to be fixed for correcting country names"
+>>>>>>> 739c74c39821f04ace67edc2927cf761234b0120
+
+dhia
+____
+roger that
