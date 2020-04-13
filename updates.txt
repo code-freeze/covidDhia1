@@ -16,13 +16,46 @@ declaration of home quarantine- same date
 Further strengthen ing physical distancing- i will confirm the date in a while- do u know the date?
 introduction of the Korean model (kerala-so wait)
 
+<<<<<<< HEAD
+dhia
+_____
+hi
+=======
 
 martin
 _________ 12/4/2020
 
 all countries updates
 some bugs to be fixed for correcting country names"
+<<<<<<< HEAD
+
+
+>>>>>>> 739c74c39821f04ace67edc2927cf761234b0120
+
+dhia
+____
+roger that
+
+dhia
+___
+additionally, if possible Nepal Kathmandu region 
+S.Korea deagu city (graph)
+request to mark lockdown in india's graph on 25th march, 2020
+declaration of home quarantine- same date
+
+Dhia
+____
+india lockdown 25th march
+nepal- 24th march
+South korea (mark as red alert not lockdown) on 23rd feb
+over n out
+
+
 
 martin
 _________ 13/4/2020
 kerala plots added
+lock down can be adeed in next update
+local regions---i need the data for the same
+i currently only have the data for countries (apart from india)
+=======
